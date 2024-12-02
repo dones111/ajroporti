@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+   
+  }
+  
+  header {
+    background-color: #3a9e00;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block; 
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none; 
+  }
+  
+  
+  section {
+    padding: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: 
+   #f2f2f2;
+  }
+  
+  .gallery img {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+  }
+  
+  
+  @media (max-width: 768px) {
+    nav li {
+      display: block;
+      margin-bottom: 10px;
+    }
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  nav a:hover,
+  nav a.active {
+    background-color: red;
+  }
+<img src="https://lirigzoni.com/wp-content/uploads/2019/03/aeroporti-Adem-Jashari-Prishtine.jpeg" class="img-fluid" alt="..>
+img{
+  height 80px
+  width: 80px
+;
+}
+.divii{
+  
+}
